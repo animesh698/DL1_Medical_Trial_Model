@@ -14,7 +14,7 @@ The model makes use of the Keras sequential model with 3 Dense layers and "relu"
 Confusion matrix to represent output.
 
 ## RUN:
-Run the file keras_1.py in your tensorflow environment.
+Change the paths in the keras_1.py file and run it in your tensorflow environment.
 
  
 ## OUTPUT:
